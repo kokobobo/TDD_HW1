@@ -1,0 +1,11 @@
+C:\Users\kobohuang\Desktop\TDD課程\TeslaDataBase\TeslaSalesTableTest\obj\Debug\TeslaSalesTableTest.csprojResolveAssemblyReference.cache
+C:\Users\kobohuang\Desktop\TDD課程\TeslaDataBase\TeslaSalesTableTest\bin\Debug\TeslaSalesTableTest.dll
+C:\Users\kobohuang\Desktop\TDD課程\TeslaDataBase\TeslaSalesTableTest\bin\Debug\TeslaSalesTableTest.pdb
+C:\Users\kobohuang\Desktop\TDD課程\TeslaDataBase\TeslaSalesTableTest\bin\Debug\ExpectedObjects.dll
+C:\Users\kobohuang\Desktop\TDD課程\TeslaDataBase\TeslaSalesTableTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\kobohuang\Desktop\TDD課程\TeslaDataBase\TeslaSalesTableTest\bin\Debug\TeslaSalesTable.dll
+C:\Users\kobohuang\Desktop\TDD課程\TeslaDataBase\TeslaSalesTableTest\bin\Debug\TeslaSalesTable.pdb
+C:\Users\kobohuang\Desktop\TDD課程\TeslaDataBase\TeslaSalesTableTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\kobohuang\Desktop\TDD課程\TeslaDataBase\TeslaSalesTableTest\bin\Debug\zh-Hant\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\kobohuang\Desktop\TDD課程\TeslaDataBase\TeslaSalesTableTest\obj\Debug\TeslaSalesTableTest.dll
+C:\Users\kobohuang\Desktop\TDD課程\TeslaDataBase\TeslaSalesTableTest\obj\Debug\TeslaSalesTableTest.pdb

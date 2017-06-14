@@ -1,0 +1,4 @@
+C:\Users\kobohuang\Desktop\TDD課程\TeslaDataBase\TeslaSalesTable\bin\Debug\TeslaSalesTable.dll
+C:\Users\kobohuang\Desktop\TDD課程\TeslaDataBase\TeslaSalesTable\bin\Debug\TeslaSalesTable.pdb
+C:\Users\kobohuang\Desktop\TDD課程\TeslaDataBase\TeslaSalesTable\obj\Debug\TeslaSalesTable.dll
+C:\Users\kobohuang\Desktop\TDD課程\TeslaDataBase\TeslaSalesTable\obj\Debug\TeslaSalesTable.pdb
